@@ -25,7 +25,7 @@ Getting Started
 To get a local copy of the project, you can clone the repository:
 
 
-git clone [<repository-url>](https://github.com/Adri2166/Number_Guessing_Game.js.git)
+git clone (https://github.com/Adri2166/Number_Guessing_Game.js.git)
 
 
 License
